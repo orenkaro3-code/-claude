@@ -3,7 +3,7 @@
 > אוסף הסקילים, האוטומציות והכלים המתקדמים ביותר לשליטה בעריכת סרטונים, יצירת אנימציות קוד וניצול כלי AI וידאו בעזרת **Claude AI**.
 
 [![Claude](https://img.shields.io/badge/Claude-Video_Agent-d97706?logo=anthropic)](https://claude.ai)
-[![Remotion](https://img.shields.io/badge/Remotion-Code_Video-blue?logo=react)](https://www.remotion.dev/)
+[![Remotion](https://img.shields.io/badge/Remotion-Code_Video-blue?logo=react)](https://www.remotion.dev/
 
 ---
 
