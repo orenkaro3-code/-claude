@@ -3,7 +3,7 @@
 > אוסף הסקילים, האוטומציות והכלים המתקדמים ביותר לשליטה בעריכת סרטונים, יצירת אנימציות קוד וניצול כלי AI וידאו בעזרת **Claude AI**.
 
 [![Claude](https://img.shields.io/badge/Claude-Video_Agent-d97706?logo=anthropic)](https://claude.ai)
-[![Remotion](https://img.shields.io/badge/Remotion-Code_Video-blue?logo=react)](https://www.remotion.dev/
+[![Remotion](https://img.shields.io/badge/Remotion-Code_Video-blue?logo=react)](https://www.remotion.dev/)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 1. 🎞️ Remotion Code-Video Skill
 * **טכנולוגיה:** React + Remotion
-* **ייעוד:** יצירת סרטוני תוכנה, אנימציות קוד וסרטונים מורכבים באופן פרוגרמטי דרך קלוד.
+* **ייעוד:** יצירת סרטוני תוכנה, אנימציות קוד וסרטוני הסבר (Explainers) מורכבים באופן פרוגרמטי דרך קלוד.
 * **מה הסקיל עושה:** מאפשר לקלוד לכתוב קומפוננטות React שמתרנדרות לסרטון MP4 חלק ברזולוציה גבוהה.
 
 ### 2. ✂️ FFmpeg Video Automation Agent
@@ -29,11 +29,14 @@
 ### 3. 📱 Reels & TikTok Auto-Subtitles Skill
 * **טכנולוגיה:** Python + Whisper AI + Video Py
 * **ייעוד:** הוספת כתוביות דינמיות בולטות (כמו בסרטונים ויראליים) אוטומטית.
-* **מה הסקיל עושה:** מנתח את האודיו של הסרטון, מייצר קובץ כתוביות `SRT` אוטומטי וצורב אותן בעיצוב מודרני.
+* **מה הסקיל עושה:** מנתח את האודיו של הסרטון, מייצר קובץ כתוביות `SRT` אוטומטי וצורב אותן בעיצוב מודרני על גבי הרילס.
 
 ---
 
-## 💻 קוד וסקריפטים לעריכה אוטומטית
+## 💻 סקריפטים וכלים להעתקה
+
+### קובץ סקיל לדוגמה: `video-editing-skill.md`
+> העתק תוכן זה לקובץ חדש בריפו שלך תחת תיקיית `video-editing/video-skill.md`:
 
 ```python
 import subprocess
