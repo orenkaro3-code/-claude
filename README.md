@@ -1,1 +1,1 @@
-# -claude
+# -claudevideo-editing-skill.md
